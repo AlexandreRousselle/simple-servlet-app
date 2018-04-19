@@ -18,7 +18,7 @@ public class DBconfig {
 	//Constructor
 	public DBconfig(){
 		user ="ROUSSELLE_ED";
-		psw = "saturnin";
+		psw = "XXX";
 		url = "jdbc:oracle:thin:@oracle.fil.univ-lille1.fr:1521:filora";
 		driver = "oracle.jdbc.driver.OracleDriver";
 	}
